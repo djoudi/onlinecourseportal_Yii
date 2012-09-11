@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<div id='load' class="content">
+<h3>{LOADHEADING}</h3>
+<div class="alert error">{LOADERROR}</div>
+<div class="note">{LOADMESSAGE}
+<div class="form">{LOADFORM}</div>
+</div>
+<ul class="tools"><li>{RETURNTOSURVEY}</li></ul>
+</div>
+=======
+<div id='load' class="content">
+<h3>{LOADHEADING}</h3>
+<div class="alert error">{LOADERROR}</div>
+<div class="note">{LOADMESSAGE}
+<div class="form">{LOADFORM}</div>
+</div>
+<ul class="tools"><li>{RETURNTOSURVEY}</li></ul>
+</div>
+>>>>>>> refs/remotes/origin/master

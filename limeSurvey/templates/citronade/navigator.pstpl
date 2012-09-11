@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+	<p class="navigator">{NAVIGATOR}</p>
+	<ul class="tools">
+		<li>{SAVE}</li>
+		<li>{CLEARALL}</li>
+	</ul>
+=======
+	<p class="navigator">{NAVIGATOR}</p>
+	<ul class="tools">
+		<li>{SAVE}</li>
+		<li>{CLEARALL}</li>
+	</ul>
+>>>>>>> refs/remotes/origin/master

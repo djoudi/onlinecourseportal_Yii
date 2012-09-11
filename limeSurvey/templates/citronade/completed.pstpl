@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+<div id="completed" class="note">
+	<p class="text">{COMPLETED}</p>
+	<p class="url">{URL}</p>
+=======
+<div id="completed" class="note">
+	<p class="text">{COMPLETED}</p>
+	<p class="url">{URL}</p>
+>>>>>>> refs/remotes/origin/master
+</div>

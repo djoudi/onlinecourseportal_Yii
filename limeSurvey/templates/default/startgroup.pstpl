@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+<table class="group">
+	<tr>
+		<td align="center">
+			<span class="group-name">{GROUPNAME}</span>
+=======
+<table class="group">
+	<tr>
+		<td align="center">
+			<span class="group-name">{GROUPNAME}</span>
+>>>>>>> refs/remotes/origin/master

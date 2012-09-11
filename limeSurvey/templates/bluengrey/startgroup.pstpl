@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+<div id="groupheader">
+	{GROUPNAME}
+=======
+<div id="groupheader">
+	{GROUPNAME}
+>>>>>>> refs/remotes/origin/master
+</div>

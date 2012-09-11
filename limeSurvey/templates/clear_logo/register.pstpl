@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+<br />
+<center>
+						<span class="warning-text">{REGISTERERROR}</span>
+						<p class="register-message-1">{REGISTERMESSAGE1}</p>
+						<p class="register-message-2">{REGISTERMESSAGE2}</p>
+{REGISTERFORM}<br />
+					</center>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+=======
+<br />
+<center>
+						<span class="warning-text">{REGISTERERROR}</span>
+						<p class="register-message-1">{REGISTERMESSAGE1}</p>
+						<p class="register-message-2">{REGISTERMESSAGE2}</p>
+{REGISTERFORM}<br />
+					</center>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+>>>>>>> refs/remotes/origin/master

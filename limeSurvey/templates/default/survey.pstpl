@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+<table class="survey-header-table">
+    <tr>
+        <td class="survey-description">
+            <h2>{SURVEYNAME}</h2><br />
+            <p>{SURVEYDESCRIPTION}</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="graph">
+            {PERCENTCOMPLETE}
+        </td>
+    </tr>
+    <tr>
+        <td class="language-changer">
+            {LANGUAGECHANGER}
+        </td>
+    </tr>
+</table>
+=======
+<table class="survey-header-table">
+    <tr>
+        <td class="survey-description">
+            <h2>{SURVEYNAME}</h2><br />
+            <p>{SURVEYDESCRIPTION}</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="graph">
+            {PERCENTCOMPLETE}
+        </td>
+    </tr>
+    <tr>
+        <td class="language-changer">
+            {LANGUAGECHANGER}
+        </td>
+    </tr>
+</table>
+>>>>>>> refs/remotes/origin/master

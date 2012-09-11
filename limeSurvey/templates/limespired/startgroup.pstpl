@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+<div class="survey-groupname">{GROUPNAME}</div>	
+<div class="survey-groupdescription">{GROUPDESCRIPTION}</div>
+=======
+<div class="survey-groupname">{GROUPNAME}</div>	
+<div class="survey-groupdescription">{GROUPDESCRIPTION}</div>
+>>>>>>> refs/remotes/origin/master

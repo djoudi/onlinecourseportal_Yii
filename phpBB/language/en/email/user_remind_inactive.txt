@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+Subject: Inactive account reminder
+
+Hello {USERNAME},
+
+This notification is a reminder that your account at "{SITENAME}", created on {REGISTER_DATE}, remains inactive. If you would like to activate this account, please visit the following link:
+
+{U_ACTIVATE}
+
+Thank you for registering at "{SITENAME}", we look forward to your participation.
+
+=======
+Subject: Inactive account reminder
+
+Hello {USERNAME},
+
+This notification is a reminder that your account at "{SITENAME}", created on {REGISTER_DATE}, remains inactive. If you would like to activate this account, please visit the following link:
+
+{U_ACTIVATE}
+
+Thank you for registering at "{SITENAME}", we look forward to your participation.
+
+>>>>>>> refs/remotes/origin/master
+{EMAIL_SIG}

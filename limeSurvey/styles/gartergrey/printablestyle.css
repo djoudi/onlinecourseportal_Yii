@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+@media print {
+  #exportbutton {
+    display: none;
+  }
+}
+
+.statisticstable {
+  page-break-after: always;
+}
+
+td {
+  color: #fff;
+=======
+@media print {
+  #exportbutton {
+    display: none;
+  }
+}
+
+.statisticstable {
+  page-break-after: always;
+}
+
+td {
+  color: #fff;
+>>>>>>> refs/remotes/origin/master
+}

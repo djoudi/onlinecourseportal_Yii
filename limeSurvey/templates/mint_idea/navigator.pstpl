@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+        <div id="footer">
+          <span class="f-left">{SAVE} </span> <span class="f-right">{NAVIGATOR}</span>
+        </div>
+        <div class="clear-all">
+{CLEARALL}
+        </div>
+=======
+        <div id="footer">
+          <span class="f-left">{SAVE} </span> <span class="f-right">{NAVIGATOR}</span>
+        </div>
+        <div class="clear-all">
+{CLEARALL}
+        </div>
+>>>>>>> refs/remotes/origin/master
+    

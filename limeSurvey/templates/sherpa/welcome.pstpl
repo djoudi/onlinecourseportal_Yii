@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+{CHECKJAVASCRIPT}
+<div class="survey-description">{SURVEYDESCRIPTION}</div>
+<div class="survey-survey-language welcome-page">{LANGUAGECHANGER}</div>
+<div class="survey-welcome">{WELCOME}</div>
+<!-- <div class="numquestions">{THEREAREXQUESTIONS}</div> -->
+=======
+{CHECKJAVASCRIPT}
+<div class="survey-description">{SURVEYDESCRIPTION}</div>
+<div class="survey-survey-language welcome-page">{LANGUAGECHANGER}</div>
+<div class="survey-welcome">{WELCOME}</div>
+<!-- <div class="numquestions">{THEREAREXQUESTIONS}</div> -->
+>>>>>>> refs/remotes/origin/master

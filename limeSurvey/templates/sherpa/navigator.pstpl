@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+<br />
+<div class="survey-navigator">{NAVIGATOR}</div>
+<div class="survey-navigator"> {CLEARALL} </div>
+<div class="survey-navigator"> {SAVE} </div>
+=======
+<br />
+<div class="survey-navigator">{NAVIGATOR}</div>
+<div class="survey-navigator"> {CLEARALL} </div>
+<div class="survey-navigator"> {SAVE} </div>
+>>>>>>> refs/remotes/origin/master

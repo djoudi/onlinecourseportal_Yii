@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+<br />
+<table class="completed-table">
+	<tr>
+		<td>
+			{COMPLETED}
+			<br /><br />
+			{URL}
+			<br /><br />
+		</td>
+	</tr>
+=======
+<br />
+<table class="completed-table">
+	<tr>
+		<td>
+			{COMPLETED}
+			<br /><br />
+			{URL}
+			<br /><br />
+		</td>
+	</tr>
+>>>>>>> refs/remotes/origin/master
+</table>

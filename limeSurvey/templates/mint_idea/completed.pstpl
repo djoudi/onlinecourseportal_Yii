@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+<br />
+<div class="survey-completed">{COMPLETED}</div>
+<br />
+<div>{URL}</div>
+<br />
+=======
+<br />
+<div class="survey-completed">{COMPLETED}</div>
+<br />
+<div>{URL}</div>
+<br />
+>>>>>>> refs/remotes/origin/master

@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+
+<br />
+<div class="survey-cleared">
+    <span class="warning-text">{ANSWERSCLEARED}</span>
+	<br /><br />
+	{RESTART}<br /><br />
+	{CLOSEWINDOW}
+</div>
+=======
+
+<br />
+<div class="survey-cleared">
+    <span class="warning-text">{ANSWERSCLEARED}</span>
+	<br /><br />
+	{RESTART}<br /><br />
+	{CLOSEWINDOW}
+</div>
+>>>>>>> refs/remotes/origin/master
+<br />

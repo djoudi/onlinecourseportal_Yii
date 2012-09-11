@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+						<table class="privacy-message">
+	<tr>
+								<td>
+									{PRIVACYMESSAGE}
+								</td>
+	</tr>
+</table>
+=======
+						<table class="privacy-message">
+	<tr>
+								<td>
+									{PRIVACYMESSAGE}
+								</td>
+	</tr>
+</table>
+>>>>>>> refs/remotes/origin/master

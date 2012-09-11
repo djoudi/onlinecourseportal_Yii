@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+			<br />
+			<span class="group-description">{GROUPDESCRIPTION}</span>
+			<br />
+=======
+			<br />
+			<span class="group-description">{GROUPDESCRIPTION}</span>
+			<br />
+>>>>>>> refs/remotes/origin/master

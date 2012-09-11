@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+<Files *>
+Order allow,deny
+Deny from all
+</Files>
+=======
+<Files *>
+Order allow,deny
+Deny from all
+</Files>
+>>>>>>> refs/remotes/origin/master

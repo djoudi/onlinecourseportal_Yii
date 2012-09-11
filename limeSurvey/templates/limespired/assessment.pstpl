@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+<br />
+<div class="survey-assessment">{ASSESSMENT_HEADING}</div>
+<div class="assessments">
+	{ASSESSMENTS}
+</div>
+=======
+<br />
+<div class="survey-assessment">{ASSESSMENT_HEADING}</div>
+<div class="assessments">
+	{ASSESSMENTS}
+</div>
+>>>>>>> refs/remotes/origin/master

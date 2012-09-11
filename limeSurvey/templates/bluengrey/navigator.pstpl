@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+<table align="center" class='navigator'>
+	<tr>
+	    <td class="save-all">{SAVE}</td> 
+		<td class="submit-buttons" align="center">{NAVIGATOR}</td>
+	    <td class="clear-all">{CLEARALL}</td> 
+	</tr>
+</table>
+=======
+<table align="center" class='navigator'>
+	<tr>
+	    <td class="save-all">{SAVE}</td> 
+		<td class="submit-buttons" align="center">{NAVIGATOR}</td>
+	    <td class="clear-all">{CLEARALL}</td> 
+	</tr>
+</table>
+>>>>>>> refs/remotes/origin/master

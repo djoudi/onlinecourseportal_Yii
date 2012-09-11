@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+<div class="group">
+<h3 class="grouptitle">{GROUPNAME}</h3>
+=======
+<div class="group">
+<h3 class="grouptitle">{GROUPNAME}</h3>
+>>>>>>> refs/remotes/origin/master
