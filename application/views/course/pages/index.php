@@ -1,10 +1,9 @@
-<h1><?php echo Yii::t('onlinecourseportal', 'Courses'); ?></h1>
+	<div class="small-masthead" style="background-image: url(<?php echo Yii::app()->theme->baseUrl; ?>/images/courses.png);">
+		<h1 class="bottom"><?php echo Yii::t('onlinecourseportal', 'Courses'); ?></h1>
+	</div>
 <div id="single-column">
 <?php
 $this->pageTitle=Yii::app()->name . ' - '.Yii::t('onlinecourseportal', 'Courses');
-$this->breadcrumbs=array(
-		Yii::t('onlinecourseportal', 'Courses'),
-);
 ?>
 
 		<h2 class="flowers"><?php echo Yii::t('onlinecourseportal', 'Online Courses'); ?></h2>
