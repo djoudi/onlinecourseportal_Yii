@@ -7,8 +7,6 @@ $this->breadcrumbs=array(
 );
 ?>
 
-<div class="column-wide">
-
 		<h2 class="flowers"><?php echo Yii::t('onlinecourseportal', 'Online Courses'); ?></h2>
 		<p><?php echo Yii::t('onlinecourseportal', 'To help individual caregivers transition into their new role, be better prepared to 
 		manage their loved one’s needs, and learn how to effectively practice self-care, Mather LifeWays Institute on Aging has developed 

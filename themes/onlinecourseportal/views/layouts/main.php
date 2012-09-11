@@ -22,7 +22,8 @@
 	<link rel="stylesheet" type="text/css"
 		href="<?php echo Yii::app()->theme->baseUrl; ?>/css/fancybox.css" />
 
-	<script type="text/javascript" src="<?php echo Yii::app()->theme->baseUrl; ?>/js/jquery.js"></script>
+	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
+
 	<script type="text/javascript" src="<?php echo Yii::app()->theme->baseUrl; ?>/js/jquery.tweet.js"></script>
 	<script type="text/javascript" src="<?php echo Yii::app()->theme->baseUrl; ?>/js/jquery.cycle.js"></script>
 	<script type="text/javascript" src="<?php echo Yii::app()->theme->baseUrl; ?>/js/jquery.quote.js"></script>
@@ -30,7 +31,6 @@
 	<script type="text/javascript" src="<?php echo Yii::app()->theme->baseUrl; ?>/js/jquery.fancybox.js"></script>
 	<script type="text/javascript" src="<?php echo Yii::app()->theme->baseUrl; ?>/js/main.js"></script>
 
-	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
 
 <body>
