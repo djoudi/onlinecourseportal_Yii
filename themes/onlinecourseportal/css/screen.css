@@ -234,6 +234,10 @@ caption {
 	background: #eee;
 }
 
+select {
+	max-width: 100%;
+}
+
 .small {
 	font-size: .8em;
 	margin-bottom: 1.875em;
