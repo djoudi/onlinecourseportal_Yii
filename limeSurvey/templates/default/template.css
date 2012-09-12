@@ -61,7 +61,7 @@ button.ui-button::-moz-focus-inner { /* Get rid of extra padding in focused butt
 	position: relative;
 	cursor: pointer;
   color: #fff;
-  background: #f47b20 url(/images/bg-menu.jpg) bottom center repeat-x;
+  background: #f47b20 url(/themes/images/bg-menu.jpg) bottom center repeat-x;
   font-size: 16px;
   font-weight: normal;
   border-radius: 5px;
