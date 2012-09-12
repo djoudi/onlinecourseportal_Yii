@@ -1,10 +1,10 @@
-<h1><img src="<?php echo Yii::app()->theme->baseUrl; ?>/images/image-login.png" /><?php echo Yii::t('onlinecourseportal', 'Login'); ?></h1>
+<div class="small-masthead" style="background-image: url(<?php echo Yii::app()->theme->baseUrl; ?>/images/header-login.png);">
+	<h1 class="bottom"><?php echo Yii::t('onlinecourseportal', 'Login'); ?></h1>
+</div>
 <div id="single-column">
 	<?php
 	$this->pageTitle = Yii::app()->name . ' - '.Yii::t('onlinecourseportal', 'Login');
-	$this->breadcrumbs = array(
-			Yii::t('onlinecourseportal', 'Login'),
-	);
+	//$this->breadcrumbs = array( Yii::t('onlinecourseportal', 'Login') );
 	?>
 
 
